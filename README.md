@@ -1,5 +1,5 @@
 # Loops-and-Functions
-This repository will help to understand the loops and functions
+This repository will help to understand the loops and functions.
 
 ######################################################## #MAKE A CSV FILE AND READ IN ########################################################
 The following is code that reads a csv file into R and saved it in a data structure called data. Modify the directories in this code and then run this code
